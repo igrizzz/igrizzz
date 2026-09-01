@@ -25,12 +25,14 @@ I tend to spend more time reading source code than tutorials.
 
 ```text
 C / C++
-Go
+Dart
 JavaScript
 HTML / CSS / SCSS
 Python
+Lua
 Git
 Linux
+
 ```
 
 Not everything here is used every day. Some of it is here because I like knowing how things work.
